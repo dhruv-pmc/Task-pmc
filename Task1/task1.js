@@ -99,8 +99,8 @@ console.log(Array.isArray("alpha"));
 console.log(alpha.join());
 // c,a,b,c,b
 
-
-
+console.log(alpha.join(" 'ke baad' "));
+// c 'ke baad' a 'ke baad' b 'ke baad' c 'ke baad' b
 
 //Array keys
 const keys = alpha.keys();
@@ -121,12 +121,13 @@ for (let x of keys1) {
 console.log(text);
 // 0 1 2 3 4 
 
+//Array lastIndexOf
+console.log(alpha.lastIndexOf("b");
+//4
+
 //Array length
 console.log(alpha.length);
 // 5
-
-
-
 
 /*The main difference between map and forEach is that the map method returns a new array by applying the callback function on each element of an array, while the forEach method doesn't return anything. You can use the forEach method to mutate the source array, but this isn't really the way it's meant to be used */
 
@@ -150,7 +151,7 @@ mark.checkResult();
 console.log(mark);
 // ['Fail', 'Pass', 'Fail', 'Pass']
 
-
+//Array Push
 console.log("the new length after pushing rat is " + animals2.push("rat"));
 // the new length after pushing rat is 4
 
@@ -164,12 +165,7 @@ function myFunc(total, num) {
     return total +" " + num;
   }
 
-console.log(alpha.join(" 'ke baad' "));
-// c 'ke baad' a 'ke baad' b 'ke baad' c 'ke baad' b
-
-
-
-//Array rightReduce
+//Array reduceRight
 //same as Array reduce but starts from end
 console.log("Full Name is " + name1.reduceRight(myFunc)); 
 // Full Name is Dalal Atishkumar Dhruv
@@ -193,7 +189,7 @@ console.log(arr.slice(3,6));
 
 const data = [18,22,28,34];
 
-//Array Find
+//Array some
 console.log(data.some(checkMark));
 // true
 
