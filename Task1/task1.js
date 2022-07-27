@@ -39,7 +39,7 @@ console.log(prices.every((price)=>{
 }));
 // false
 
-//Array Find
+//Array Fill
 const arr = ['Cow', 'Horse', 'Elephant', 'Cat', 'Lion', 'Tiger', 'Snake'];
 console.log(arr.fill("Dog"));
 // ['Dog', 'Dog', 'Dog', 'Dog', 'Dog', 'Dog', 'Dog']
