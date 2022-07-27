@@ -122,7 +122,7 @@ console.log(text);
 // 0 1 2 3 4 
 
 //Array lastIndexOf
-console.log(alpha.lastIndexOf("b");
+console.log(alpha.lastIndexOf("b"));
 //4
 
 //Array length
