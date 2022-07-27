@@ -11,7 +11,7 @@
 - [Array Find](https://github.com/dhruv-pmc/Task-pmc/blob/master/Task1/task1.js#:~:text=//Array%20Find,//%2033)
 - [Array FindIndex](https://github.com/dhruv-pmc/Task-pmc/blob/master/Task1/task1.js#:~:text=//Array%20FindIndex,//%201)
 - [Array For Each](https://github.com/dhruv-pmc/Task-pmc/blob/master/Task1/task1.js#:~:text=//Array%20For%20Each,Mark%20%2C%2040%20Mark%20%2C)
-- [Array From](https://github.com/dhruv-pmc/Task-pmc/blob/master/Task1/task1.js#:~:text=//Array%20From,E%27%2C%20%27F%27%2C%20%27G%27%5D
+- [Array From](https://github.com/dhruv-pmc/Task-pmc/blob/master/Task1/task1.js#:~:text=//Array%20From,E%27%2C%20%27F%27%2C%20%27G%27%5D)
 - [Array includes](https://github.com/dhruv-pmc/Task-pmc/blob/master/Task1/task1.js#:~:text=//Array%20includes,//%20false)
 - [Array indexOf](https://github.com/dhruv-pmc/Task-pmc/blob/master/Task1/task1.js#:~:text=//Array%20indexOf,//%204)
 - [Array isArray](https://github.com/dhruv-pmc/Task-pmc/blob/master/Task1/task1.js#:~:text=//Array%20isArray,//%20false)
